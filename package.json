@@ -2,6 +2,10 @@
   "name": "ui-components--kit",
   "version": "1.0.2",
   "description": "Reusuable component library",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/soumyapriyadarshi99/ui-library-kit.git"
+  },
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
