@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+
+# production
+dist/
+tsbuild/
+
+# testing
+coverage/
+*.log
+
+# local env files
+.env
+.env.local
+
+# system
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# misc
+*.tgz
