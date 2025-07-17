@@ -4,16 +4,16 @@ export const darkTheme: Theme = {
   mode: "dark",
 
   colors: {
-    primary: "#818cf8",         // Indigo-400
-    primaryHover: "#6366f1",    // Indigo-500
-    secondary: "#2a2e35",       // Dark muted gray
-    background: "#1c1f24",      // Soft near-black
-    surface: "#2a2e35",         // Used for cards, panels, etc.
-    text: "#e5e7eb",            // Light gray (not white)
+    primary: "#10b981",         // Emerald-500 (green)
+    primaryHover: "#059669",    // Emerald-600
+    secondary: "#374151",       // Gray-700
+    background: "#111827",      // Gray-900 (very dark)
+    surface: "#1f2937",         // Gray-800 for cards/panels
+    text: "#f3f4f6",            // Light gray (near white)
     muted: "#9ca3af",           // Gray-400
     error: "#f87171",           // Red-400
     warning: "#fbbf24",         // Amber-400
-    success: "#34d399",         // Green-400
+    success: "#22c55e",         // Green-500
   },
 
   spacing: {

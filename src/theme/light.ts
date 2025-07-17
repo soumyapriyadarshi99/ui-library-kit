@@ -4,16 +4,16 @@ export const lightTheme: Theme = {
   mode: "light",
 
   colors: {
-    primary: "#4f46e5",
-    primaryHover: "#4338ca",
-    secondary: "#f3f4f6",
-    background: "#ffffff",
-    surface: "#f9fafb",
-    text: "#111827",
-    muted: "#6b7280",
-    error: "#ef4444",
-    warning: "#f59e0b",
-    success: "#22c55e",
+    primary: "#0f9d58",         // Google green, vibrant
+    primaryHover: "#0c7a43",    // Darker green on hover
+    secondary: "#e5e7eb",       // Light gray
+    background: "#ffffff",      // Pure white
+    surface: "#f3f4f6",         // Light gray surface
+    text: "#111111",            // Rich black text
+    muted: "#6b7280",           // Gray text
+    error: "#dc2626",           // Red
+    warning: "#d97706",         // Orange
+    success: "#16a34a",         // Slightly different green for success
   },
 
   spacing: {
